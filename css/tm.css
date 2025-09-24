@@ -23,7 +23,7 @@ body {
 }
 
 #tm {
-    animation: 0.3s ease-in 0.3s fade-in;
+    animation: 0.1s ease-in 0.1s fade-in;
     animation-fill-mode: forwards;
     opacity: 0;
     color: #0e6b0e;
@@ -59,4 +59,5 @@ body {
 
 .link:hover {
     background-color: white;
+
 }
